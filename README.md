@@ -2,7 +2,7 @@
 Projeto protótipo de um monitor de batimentos cardíacos de baixo custo e com análise automática de anomalias. Faz parte do ecossistema MMSD.
 
 # Big Game Survey 
-[![NPM]([https://img.shields.io/npm/l/react](https://media.licdn.com/dms/image/D4D22AQGehrNNwUVdSQ/feedshare-shrink_800/0/1696186772538?e=1699488000&v=beta&t=wUNObZTiSIKxqWvLHOH7I_6CvNPqhBc-KLkonxhT1Oc))](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+[![NPM]([https://img.shields.io/npm/l/react](https://media.licdn.com/dms/image/D4D22AQGehrNNwUVdSQ/feedshare-shrink_800/0/1696186772538?e=1699488000&v=beta&t=wUNObZTiSIKxqWvLHOH7I_6CvNPqhBc-KLkonxhT1Oc)](https://media.licdn.com/dms/image/D4D22AQGehrNNwUVdSQ/feedshare-shrink_800/0/1696186772538?e=1699488000&v=beta&t=wUNObZTiSIKxqWvLHOH7I_6CvNPqhBc-KLkonxhT1Oc))](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 # Sobre o projeto
 
@@ -13,7 +13,7 @@ Big Game Survey é uma aplicação full stack web e mobile construída durante a
 A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
 
 ## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Mobile 1](https://photos.app.goo.gl/MWrgLYcn2QCx96dE9) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
 ## Layout web
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
