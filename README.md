@@ -1,8 +1,8 @@
 # heartbeatmonitor
 Projeto protótipo de um monitor de batimentos cardíacos de baixo custo e com análise automática de anomalias. Faz parte do ecossistema MMSD.
 
-# Big Game Survey 
-[![NPM]([https://img.shields.io/npm/l/react](https://media.licdn.com/dms/image/D4D22AQGehrNNwUVdSQ/feedshare-shrink_800/0/1696186772538?e=1699488000&v=beta&t=wUNObZTiSIKxqWvLHOH7I_6CvNPqhBc-KLkonxhT1Oc)](https://media.licdn.com/dms/image/D4D22AQGehrNNwUVdSQ/feedshare-shrink_800/0/1696186772538?e=1699488000&v=beta&t=wUNObZTiSIKxqWvLHOH7I_6CvNPqhBc-KLkonxhT1Oc))](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+# Heart Beat Monitor
+![Mobile 1](https://lh3.googleusercontent.com/pw/ADCreHfsz6NmAE_V79lEFHSSMoyOq71m2EbPIrDJXexpQWduaMFotcVF0yCeqcB1wuKEmbvNMgLmGJQX-WK6HZtbOOlXxB5ynYz7adB83BwUHD6gKAPl6ARfitaNE0R-KW-HqewCvTcG4cqSoe4MrEMDjvZ4=w842-h632-s-no?authuser=0)
 
 # Sobre o projeto
 
