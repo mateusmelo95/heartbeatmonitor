@@ -2,7 +2,7 @@
 Projeto protótipo de um monitor de batimentos cardíacos de baixo custo e com análise automática de anomalias. Faz parte do ecossistema MMSD.
 
 # Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+[![NPM]([https://img.shields.io/npm/l/react](https://media.licdn.com/dms/image/D4D22AQGehrNNwUVdSQ/feedshare-shrink_800/0/1696186772538?e=1699488000&v=beta&t=wUNObZTiSIKxqWvLHOH7I_6CvNPqhBc-KLkonxhT1Oc))](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 # Sobre o projeto
 
