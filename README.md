@@ -1,5 +1,5 @@
 # heartbeatmonitor
-Projeto protótipo de um monitor de batimentos cardíacos de baixo custo e com análise automática de anomalias. Faz parte do ecossistema MMSD.
+Monitor de Batimentos Cardíacos ou Heart Beat Monitor é um protótipo de um monitor de batimentos cardíacos de baixo custo e com análise automática de anomalias. Faz parte do ecossistema MMSD.
 
 # Heart Beat Monitor
 ![Mobile 1](https://lh3.googleusercontent.com/pw/ADCreHfsz6NmAE_V79lEFHSSMoyOq71m2EbPIrDJXexpQWduaMFotcVF0yCeqcB1wuKEmbvNMgLmGJQX-WK6HZtbOOlXxB5ynYz7adB83BwUHD6gKAPl6ARfitaNE0R-KW-HqewCvTcG4cqSoe4MrEMDjvZ4=w842-h632-s-no?authuser=0)
